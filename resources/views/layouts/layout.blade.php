@@ -68,7 +68,7 @@
       @include('layouts.header')
       <!--end::Header-->
       <!--begin::Sidebar-->
-     @include(layouts.sidebar)
+     @include('layouts.sidebar')
       <!--end::Sidebar-->
       <!--begin::App Main-->
       <main class="app-main">
